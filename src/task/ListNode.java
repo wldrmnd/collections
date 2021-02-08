@@ -3,6 +3,7 @@ package task;
 
 //1 -> 2 -> 3 -> null
 //3 -> 2 -> 1 -> null
+// Apache Maven — основы
 public class ListNode {
     Node head;
 

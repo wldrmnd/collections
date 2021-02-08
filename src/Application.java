@@ -1,9 +1,11 @@
+import org.w3c.dom.Node;
+
 import java.util.*;
 
 public class Application {
     public static void main(String[] args) {
-        Humanable something = new Human();
-        something.run();
+       testList();
+       testSet();
     }
 
     private static void testSet() {
