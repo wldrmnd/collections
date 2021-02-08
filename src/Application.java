@@ -2,6 +2,9 @@ import org.w3c.dom.Node;
 
 import java.util.*;
 
+/*
+Id / Name / Surname / Time (10:10:10) / Visa / Amount
+ */
 public class Application {
     public static void main(String[] args) {
        testList();
